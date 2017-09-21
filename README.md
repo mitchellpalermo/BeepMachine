@@ -9,9 +9,9 @@ Very simple code using the built-in libraries. Really Easy and fun.
 
 *This program makes use of 3 functions*
 
-`delay` makes the arduino wait 
-`noTone` makes the arduino cease emitting the tone
-`tone` lets you specify which digital pin the tone will be sent out of and what frequency the tone will be
+- `delay` makes the arduino wait 
+- `noTone` makes the arduino cease emitting the tone
+- `tone` lets you specify which digital pin the tone will be sent out of and what frequency the tone will be
 
 
 ### Let me know if you have any questions
